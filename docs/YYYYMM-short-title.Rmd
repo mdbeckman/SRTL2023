@@ -1,0 +1,95 @@
+---
+title: "Presentation Title"
+author: |
+  | Matthew Beckman
+  | Penn State University
+date: |
+  | Month DD, YYYY
+  | Location
+
+  
+output:
+  beamer_presentation: 
+    colortheme: seagull
+    theme: Pittsburgh
+  slidy_presentation: 
+    fig_width: 8
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+library(tidyverse)
+library(kableExtra)
+
+```
+
+# Slide 1
+
+- item 1
+- item 2
+
+### Box
+
+1. item
+2. item
+
+
+
+# Slide 2
+
+- Cite stuff people have already done[^1]
+- Link to URL's: <https://en.wikipedia.org/wiki/URL>
+
+[^1]: American Statistical Association Undergraduate Guidelines Workgroup (2014). *Curriculum guidelines for undergraduate programs in statistical science.*
+
+
+# Full slide image
+
+![](ASA-Guidelines.png){ width=95% }
+
+
+# Here's a table
+
+| Col1 | Col2 | 
+|:--------------:|:-----------|
+| 1 |  One |
+| 2 |  Two |
+| 3 |  Three |
+| 4 |  Four  |
+| 5 |  Five  |
+| 6 |  Six  |
+
+
+
+
+# Acknowledgments
+
+- So many to thank
+
+
+
+# References
+
+\footnotesize
+
+1. American Statistical Association Undergraduate Guidelines Workgroup (2014). 2014 Curriculum guidelines for undergraduate programs in statistical science. Alexandria, VA: American Statistical Association. http://www.amstat.org/education/curriculumguidelines.cfm
+
+
+
+# Q & A 
+
+
+\titlepage
+
+
+Include URL for gh-pages site for presentation
+
+
+
+# Backup slide
+
+
+
+
+
