@@ -47,17 +47,98 @@ library(tidyverse)
 
 ![(Academic) offspring of Joan Garfield & Bob delMas](Joan-Bob.jpg){ width=40% }
 
->- if any of you know me, it's probably thanks to my ~~parents~~ PhD advisors Joan & Bob 
->- as it happens, most of my personal history has almost nothing to do with academics!
->- here's a bit of my non-academic upbringing...
+>- if any of you know me, it's probably thanks to my ~~parents~~ PhD advisors Joan Garfield & Bob delMas
+>- there's plenty more to my upbringing prior to Statistics Education, including lots that has almost nothing to do with academics...
 
+
+
+# Rebellious youth
+
+<!-- I was once a rebellious young man... -->
+
+![](rebel.jpg){}
 
 
 # Mum & Dad
 
-![Marian & Don Beckman](parents.jpg){ width=40% }
+<!-- raised by kind and patient parents... -->
 
-# 
+
+![Marian & Don Beckman](parents.jpg){ width=50% }
+
+
+
+# Social outing with a friend
+
+![An afternoon at the stadium.](football.jpg){ width 40% }
+
+
+# Early education...
+
+<!-- I studied mathematics in college... -->
+
+![](college.jpg){ width=90%}
+
+
+# Getting more serious...
+
+<!-- earned a Master's degree in statistics... -->
+
+![earned MS in Statistics & married Sarah.](ms-degree.jpg){ width=50% }
+
+
+# Settling in as a career statistician...
+
+![Working late...](cubicle.jpg){ width=80% }
+
+# Ecolab, Inc.
+
+![Image credit: Patrick Kennedy, Star Tribune[^1] ](ecolab.jpg){ width=40% }
+
+\small 
+
+- Started out at Ecolab working in R&D (+ Eng) 
+- Interned with a small team of staff statistical consultants
+- Lots of design & analysis of experiments
+- Assist with teaching in-house statistics courses for Engineers, Mgmt, scientists, etc (Intro, DOE, MSA, SPC, RDSA)
+
+<!-- - Also support a training mission–helped develop and teach short (1 week) courses for scientists, engineers, and others to teach them [statistical reasoning and statistical thinking] --> 
+
+
+
+[^1]: \footnotesize Kennedy, P., (6 Feb 2023). Ecolab now selling products at Home Depot — the first time available at retail stores. Star Tribune. URL:  https://www.startribune.com/ecolab-now-selling-products-at-home-depot-the-first-time-available-at-retail-store/600249463/
+
+
+
+# 8 yrs in Medical Technology
+
+- Medtronic, PLC 
+<!-- (largest medical technology company in the world) -->
+<!-- $30B revenue; $114B market cap; and Google says so -->
+
+- Hired b/c MDT made a commitment to government regulators! 
+<!-- Statistician into Reg Org–monitor adverse events every month -->
+
+- Typical data: verbatim complaints from call center, manufacturing data, clinical study data, company sales & registration data, engineering diagnostics from in-house returned product analysis, lots more!
+
+<!-- Keenan– "what happens when a competent statistician gets dropped into a sea of engineers? YOU GET BUSY" -->
+
+- Promoted to Senior Statistician; supported broad projects across organization including Quality, Manufacturing, R&D, Marketing, HR/Personnel
+- Regularly tasked with explaining MDT statistical methodology and procedures to government regulators (e.g., post-market surveillance)
+- Develop & teach in-house statistics courses (again!)
+
+
+# Nonin Medical. Inc 
+
+![image credit: Michael Heisson[^2] ](nonin.png){ width=30% }
+
+- Senior Biostatistican ("only" statistician...)
+- Internal & external collaborations (e.g., anesthesiology research, clinical trial design, etc)
+
+
+[^2]: \footnotesize Lee, E., (4 Oct 2022). The Best Pulse Oximeter for Home Use. New York Times Wirecutter. URL: https://www.nytimes.com/wirecutter/reviews/best-pulse-oximeter-for-home-use/
+
+<!-- …back to Medtronic for a lame duck session to clean up special projects and help automate my own job away! -->
 
 
 
@@ -75,10 +156,10 @@ library(tidyverse)
 
 # Slide 2
 
-- Cite stuff people have already done[^1]
+- Cite stuff people have already done[^5]
 - Link to URL's: <https://en.wikipedia.org/wiki/URL>
 
-[^1]: American Statistical Association Undergraduate Guidelines Workgroup (2014). *Curriculum guidelines for undergraduate programs in statistical science.*
+[^5]: American Statistical Association Undergraduate Guidelines Workgroup (2014). *Curriculum guidelines for undergraduate programs in statistical science.*
 
 
 
