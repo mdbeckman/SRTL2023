@@ -1,10 +1,10 @@
 ---
-title: "Seminar Venue"
-subtitle: "Title"
+title: "SRTL-13 Maleny, Australia"
+subtitle: "Title TBD"
 author: |
   | Matthew Beckman
   | Penn State University
-date: Month DD, YYYY
+date: June 25, 2023
 output: 
   html_document: 
     css: stylesheet.css
@@ -18,8 +18,7 @@ output:
 
 ## Resources
 
-- [Slides (PDF)](docs/YYYYMM-short-title.pdf)
-- [Paper (PDF)](): 
+- [Slides (PDF)](docs/202306-srtl-keynote.pdf)
 
 
 
