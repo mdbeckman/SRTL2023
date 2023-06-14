@@ -39,6 +39,28 @@ library(tidyverse)
 
 
 
+# Who is this guy anyway?
+
+
+
+# The birth of an academic
+
+![(Academic) offspring of Joan Garfield & Bob delMas](Joan-Bob.jpg){ width=40% }
+
+>- if any of you know me, it's probably thanks to my ~~parents~~ PhD advisors Joan & Bob 
+>- as it happens, most of my personal history has almost nothing to do with academics!
+>- here's a bit of my non-academic upbringing...
+
+
+
+# Mum & Dad
+
+![Marian & Don Beckman](parents.jpg){ width=40% }
+
+# 
+
+
+
 # Slide 1
 
 - item 1
