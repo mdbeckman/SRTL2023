@@ -31,16 +31,64 @@ library(tidyverse)
 
 # 
 
-![Getting ready to "Provide the perspective of the discipline..." as chartered by the SRTL announcement.](studying.png){ width=95% }
+![Getting ready to "Provide the perspective of the discipline..." as promised in the SRTL announcement.](studying.png){ width=80% }
+
+\small
+
+### 
+
+>- ...on "reconceptualising data and data-ing"
+>- "data-ing?"
+>- that wasn't in the book... 
+
 
 # 
 
 \titlepage
 
 
+# "Data...ing?"
 
-# Who is this guy anyway?
+>- I'm usually not one to "verb" my nouns (then use as a gerund)
+>- but I've heard this kind of thing happens on Twitter
 
+
+# \# ADULTING
+
+![image credit: Grammarist.  URL: https://grammarist.com/new-words/adulting/](adulting.png){ width=95% }
+
+
+# But "Data" as a verb?
+
+>- I've heard of *data verbs*, just not "data" as a verb
+
+>- Amelia McNamara helpfully pointed out (to my surprise) this too has precedent!
+
+>- Who would do such a thing?
+
+# Jer Thorp
+
+![image credit: Roman Makhmutov[^5] ](thorp.png)
+
+[^5]: Thorp, J. (2021). Living in data: A citizen's guide to a better information future. New York: MCD, Farrar, Straus and Giroux.
+
+
+# Coming around...
+
+>- "the pair data and data-ing refers to a similar conceptualization of the relation between sample and sampling, or model and modeling, where the first is the statistical concept and the second refers to the process of engaging or reasoning with this concept."
+
+>- *This* resonates with me... 
+
+>- and it's starting to sound like something I've observed before
+
+
+# What perspective can I offer?
+
+<!-- I'm deeply honored that I was invited to be this year's statistician in residence. -->
+
+<!-- Past SRTL statisticians in residence like Chris Wild, Allan Rossman, Rob Gould, Nick Horton (and more) are all people that I know quite well and hold in extremely high regard -->
+
+<!-- There's a big difference though... you've *heard* of them! -->
 
 
 # The birth of an academic
@@ -52,14 +100,7 @@ library(tidyverse)
 
 
 
-# Rebellious youth
-
-<!-- I was once a rebellious young man... -->
-
-![](rebel.jpg){}
-
-
-# Mum & Dad
+# My actual Mum & Dad
 
 <!-- raised by kind and patient parents... -->
 
@@ -67,27 +108,33 @@ library(tidyverse)
 ![Marian & Don Beckman](parents.jpg){ width=50% }
 
 
-
-# Social outing with a friend
+# Socializing with friends
 
 ![An afternoon at the stadium.](football.jpg){ width 40% }
 
 
-# Early education...
+# Rebellious phase
+
+<!-- I was once a rebellious young man... -->
+
+![Who knows...](rebel.jpg){}
+
+
+# Got an education...
 
 <!-- I studied mathematics in college... -->
 
-![](college.jpg){ width=90%}
+![](college.jpg){ width=90% }
 
 
 # Getting more serious...
 
 <!-- earned a Master's degree in statistics... -->
 
-![earned MS in Statistics & married Sarah.](ms-degree.jpg){ width=50% }
+![Met my wife in Minnesota and began a career in statistics.](ms-degree.jpg){ width=50% }
 
 
-# Settling in as a career statistician...
+# Where the magic happens...
 
 ![Working late...](cubicle.jpg){ width=80% }
 
@@ -99,8 +146,8 @@ library(tidyverse)
 
 - Started out at Ecolab working in R&D (+ Eng) 
 - Interned with a small team of staff statistical consultants
-- Lots of design & analysis of experiments
-- Assist with teaching in-house statistics courses for Engineers, Mgmt, scientists, etc (Intro, DOE, MSA, SPC, RDSA)
+- Typical Data: Lots of design & analysis of experiments
+- Assist teaching in-house statistics courses for Engineers, Mgmt, scientists, etc (Intro, DOE, MSA, SPC, RDSA)
 
 <!-- - Also support a training mission–helped develop and teach short (1 week) courses for scientists, engineers, and others to teach them [statistical reasoning and statistical thinking] --> 
 
@@ -109,22 +156,25 @@ library(tidyverse)
 [^1]: \footnotesize Kennedy, P., (6 Feb 2023). Ecolab now selling products at Home Depot — the first time available at retail stores. Star Tribune. URL:  https://www.startribune.com/ecolab-now-selling-products-at-home-depot-the-first-time-available-at-retail-store/600249463/
 
 
-
 # 8 yrs in Medical Technology
 
-- Medtronic, PLC 
+![image credit: https://asiapac.medtronic.com/xp-en/about.html](mdt.png){ width=40% }
+
+\small 
+
 <!-- (largest medical technology company in the world) -->
 <!-- $30B revenue; $114B market cap; and Google says so -->
 
-- Hired b/c MDT made a commitment to government regulators! 
+
+- Hired due to commitment to government regulators! 
 <!-- Statistician into Reg Org–monitor adverse events every month -->
 
-- Typical data: verbatim complaints from call center, manufacturing data, clinical study data, company sales & registration data, engineering diagnostics from in-house returned product analysis, lots more!
+- Typical data: verbatim complaints from call center, manufacturing lines, clinical, sales & registration data, engineering diagnostics from in-house returned product analysis, lots more!
 
 <!-- Keenan– "what happens when a competent statistician gets dropped into a sea of engineers? YOU GET BUSY" -->
 
-- Promoted to Senior Statistician; supported broad projects across organization including Quality, Manufacturing, R&D, Marketing, HR/Personnel
-- Regularly tasked with explaining MDT statistical methodology and procedures to government regulators (e.g., post-market surveillance)
+- Promoted to Senior Statistician; broader involvement including Quality, Manufacturing, R&D, Marketing, HR/Personnel, Six Sigma
+- Regularly tasked with discussing/explaining statistical methodology and procedures to government regulators (e.g., post-market surveillance)
 - Develop & teach in-house statistics courses (again!)
 
 
@@ -138,9 +188,139 @@ library(tidyverse)
 
 [^2]: \footnotesize Lee, E., (4 Oct 2022). The Best Pulse Oximeter for Home Use. New York Times Wirecutter. URL: https://www.nytimes.com/wirecutter/reviews/best-pulse-oximeter-for-home-use/
 
-<!-- …back to Medtronic for a lame duck session to clean up special projects and help automate my own job away! -->
+
+# Back to Medtronic!?  
 
 
+
+- Back to Medtronic for a lame duck session
+
+- Goals: clean up special projects, train new statisticians (& business analysts) and help automate my own job away (!) 
+
+<!-- Sidebar: people used to worry about jobs being automated away... do you know what happens if you're hired to a job and then he you automate your own job function? Spoiler: you don't get fired... you get promoted! --> 
+
+- Next Stop: Penn State! 
+
+>- When I was a few years younger, people gave me puzzled looks when I described my background...
+
+>- You know that look when someone is calculating your age while you talk with them? 
+
+>- *college grad at 21 yrs + 2 yrs (MS Statistics) + 8 yrs industry + 5 yrs (PhD) + yrs as Penn State faculty...*
+
+>- *hmm... he doesn't look old enough for all that*
+
+>- *... but I don't think he's a boy-genius that finished college at 16 either*
+
+>- Life hack: I earned my PhD *while* working full-time 
+
+
+![](mentor.jpg){ width=40% }
+
+# Personal reflections from my industry experience
+
+- I began to notice gaps between my expectations/assumptions for my contributions at work and the reality of my experiences on the job... 
+
+- *Expectation*: UMN Statistics Dept filled my toolbox with advanced methods & fancy models... that's what they'll expect me to do at work.
+
+>- *Mind the gap*: At work, I generally used 10-20% of the fancy things I learned in those courses
+
+>- Lots of the fancy methods that I needed at work, I *learned* at work. This is a common refrain among professional statisticians. 
+
+<!-- Impossible to predict *which* 20% you'll need on the job! Far more important is the ability to self-educate.  -->
+
+>- *Mind the gap*: The statisticians on my team were regularly requested to engage with myriad issues that were **not at all statistical** in nature. 
+
+>- **Bad** reason this gap might emerge: management may not understand how statisticians best contribute to the organization[^3]
+
+<!-- Hence the gap -->
+
+>- **Good** this gap might emerge: (coming up later...)
+
+
+[^3]: Deming, W. E. (2000). Out of the Crisis. MIT Press.
+
+# 
+
+\titlepage
+
+# Mind the gap
+
+<!-- I found myself encountering all sorts of gaps like this. between what others expected or assumed of statistics and what I understood to be my purpose or contribution. --> 
+
+![image created with assistance of DALL·E 2 by Open AI](gap.png)
+
+
+- Role of statisticians at work
+- Public perception of Statistics
+- Student perception of EDA
+- Opportunities for research
+
+
+# Mind the gap: In the public
+
+
+> statistics vs Statistics
+
+<!-- I meet students all the time that tell me they became interested in studying statistics by watching sports... -->
+
+<!-- - a "statistic" could be regarded as a collective property of some data (e.g., a quantity calculated from a sample) -->
+
+<!-- - Statistics (the field) – among the greatest contributions of our field is the means to accommodate, characterize, and even quantify **variability** and **uncertainty**  -->
+
+
+# Mind the gap: EDA
+
+> Perceived value vs potential contribution of EDA (exploratory data analysis)
+
+
+<!-- advanced stat & DS students, in particular -->
+<!-- equated to summary statistics & a few cursory plots -->
+<!-- temptation to rush into statistical modelling–to jump ahead to the “answers” -->
+
+
+# Mind the gap: EDA
+
+>- My solution? 
+>- my students need a framework for a careful EDA
+>- with an acronym to help remember it
+
+
+# EDA Framework (2019)
+
+### Get in "B-E-D" with your data
+
+>- **B**ecome acquainted with the data
+>- **E**xplore intuition for your research question(s)
+>- **D**iscover features in the data that impact modeling decisions
+
+
+
+# EDA Framework (2nd attempt)
+
+...not a great acronym
+
+### Let's just reuse "EDA" instead
+
+>- **Examine the data source(s)**: data provenance, variable types, coding, missingness, summary statistics/plots; 
+
+>- **Discover features that influence may modeling decisions:** investigate potential outliers, consideration for recoding variables (e.g., numeric data that's functionally dichotomous), evaluate correlation structure (e.g., autocorrelation, hierarchy, spatial/temporal proximity);
+
+>- **Address research questions:** build intuition and note preliminary observations/conclusions related to each research question.  Also, note observations that prompt you to refine your research questions or add new questions to investigate
+
+>- p.s. Lonneke's work included a concise summary of literature that I think aligns quite closely with the "E" step!
+
+
+# Mind the gap: Opportunity for research
+
+
+
+# Mind the gap: Opportunity for research
+
+![One of my all-time favorite papers.](w-p_1999.png){ width=95% }
+![Opening vignette[^6] ](w-p_1999(2).png){ width=95% }
+
+
+[^6]: Wild, C. J., Pfannkuch, M. (1999).  Statistical thinking in empirical enquiry. International Statistical Review, 67(3), pp 223-265.
 
 # Slide 1
 
