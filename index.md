@@ -1,6 +1,6 @@
 ---
 title: "SRTL-13 Maleny, Australia"
-subtitle: "Title TBD"
+subtitle: "Mind the Gap: An incomplete picture of statistics, statisticians, & statistics education"
 author: |
   | Matthew Beckman
   | Penn State University
@@ -11,14 +11,14 @@ output:
 ---
 
 
-*Abstract.* Details of the abstract
+*Abstract.* TBD
 
 
 
 
 ## Resources
 
-- [Slides (PDF)](docs/202306-srtl-keynote.pdf)
+- [Slides (PDF)](docs/202306-srtl-keynote.pdf#page=2)
 
 
 
