@@ -94,7 +94,7 @@ library(tidyverse)
 
 # The birth of an academic
 
-![(Academic) offspring of Joan Garfield & Bob delMas](Joan-Bob.jpg){ width=40% }
+![(Academic) offspring of Joan Garfield & Bob delMas enters the world (of Statistics Education)](Joan-Bob.jpg){ width=40% }
 
 >- if any of you know me, it's probably thanks to my ~~parents~~ PhD advisors Joan Garfield & Bob delMas
 >- there's plenty more to my upbringing before I ever got involved with Statistics Education, including lots that has almost nothing to do with academia!
@@ -215,7 +215,6 @@ library(tidyverse)
 >- Life hack: I earned my PhD *while* working full-time 
 
 
-![](mentor.jpg){ width=40% }
 
 # Personal reflections from industry
 
@@ -228,6 +227,7 @@ library(tidyverse)
 >- Lots of the fancy methods that I needed at work, I *learned* at work. This is a common refrain among professional statisticians. 
 
 <!-- Impossible to predict *which* 20% you'll need on the job! Far more important is the ability to self-educate.  -->
+
 
 # Personal reflections from industry
 
@@ -363,8 +363,9 @@ library(tidyverse)
 
 >- Something new to be explored?
 >- Something familiar by another name?
->- Is my framework for EDA better described as data-ing?
->- Is data-ing a superset of all ways one might act upon data??
+>- An intersection?
+>- A superset?
+>- What about Gapminder? Dollar Street? Factfulness? 
 
 
 # What actions might data-ing include?
@@ -375,7 +376,7 @@ library(tidyverse)
 - data cleaning (Many SRTL-ers)
 
 
-# How else might we "engage with data"
+# More engaging and reasoning with data
 
 
 >- Andee & Michal probe evaluation of which data **needed** to achieve the scientific purposes? 
@@ -386,7 +387,9 @@ library(tidyverse)
 
 -	Alyssa seeks to examine the interface between computational thinking and data-ing 
 
-- Would data-ing differ if we favor an algorithmic rather than inferential "culture" of statistical modeling?[^8] 
+- What if we favor an algorithmic rather than inferential "culture"?[^8] 
+
+- Ronit challenges us to consider "big data-ing"
 
 [^8]: Breiman, L. (2001). Statistical modeling: The two cultures. Statistical science, 16(3), 199-231.
 
@@ -394,11 +397,19 @@ library(tidyverse)
 
 # How well-defined is "data"
 
--	Jill & Lonneke discuss consuming and evaluating evidence–and implications of data-ing when engaged with forms of evidence more broadly concieved than has been typical for classical data analysis
 
 - Is "messy" data well-defined?
     - any deviation from tidy data[^7]?
     - Amelia & Kym discuss intuition of data cards 
+
+-	What is "big data"??[^10]
+    - Volume? Velocity? Variety?[^8] 
+    - Does "messier" make it "bigger"
+    - Is the distinction absolute or relative? 
+    - how will this make "big data-ing" different?
+    
+-	Jill & Lonneke discuss consuming and evaluating evidence–and implications of data-ing when engaged with forms of evidence more broadly concieved than has been typical for classical data analysis
+
 
 <!-- data cards closer to a hierarchical structure than tidy structure? -->
 
@@ -406,9 +417,6 @@ library(tidyverse)
 <!--   -	What makes data messy?   -->
 <!--   -	many of the extended abstracts discussed messy data,  -->
 
--	Ronit remarked on "big data" and "big data-ing"
-    - is this different?
-    - how?
     
 <!-- -	Just when does a lot of data become big data (capitalized)? -->
 
@@ -423,7 +431,9 @@ library(tidyverse)
 
 [^7]: Wickham, H. (2014). Tidy data. Journal of Statistical Software, 59(10). DOI: 10.18637/jss.v059.i10
 
+[^8]: Laney, D. (2001). 3D data management: Controlling data volume, velocity and variety. In: Meta Group.
 
+[^10]: Kitchin, R., & McArdle, G. (2016). What makes Big Data, Big Data? Exploring the ontological characteristics of 26 datasets. *Big Data & Society, 3*(1).
 
 
 # 
@@ -434,10 +444,14 @@ library(tidyverse)
 
 # References
 
-<!-- \footnotesize -->
+\footnotesize
 
+- Batty, M. (2015). Data about cities: Redefining big, recasting small. Paper prepared for the Data and the City workshop, Maynooth University, 31 August–1 September 2015. URL: http://www.spatialcomplexity.info/
+files/2015/08/Data-Cities-Maynooth-Paper-BATTY.pdf
 - Breiman, L. (2001). Statistical modeling: The two cultures. *Statistical science, 16*(3), 199-231.
 - Deming, W. E. (2000). *Out of the Crisis*. MIT Press.
+- Kitchin, R., & McArdle, G. (2016). What makes Big Data, Big Data? Exploring the ontological characteristics of 26 datasets. *Big Data & Society, 3*(1).
+- Laney, D. (2001) 3D data management: Controlling data volume, velocity and variety. In: Meta Group. URL: https://studylib.net/doc/8647594/3d-data-management--controlling-data-volume--velocity--an...
 - Tukey, J. (1977). *Exploratory Data Analysis*. Vol 2.
 - Wickham, H. (2014). Tidy data. *Journal of Statistical Software, 59*(10). DOI: 10.18637/jss.v059.i10
 - Wild, C. J., Pfannkuch, M. (1999).  Statistical thinking in empirical enquiry. *International Statistical Review, 67*(3), pp 223-265.
