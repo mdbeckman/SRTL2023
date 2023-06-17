@@ -50,6 +50,7 @@ library(tidyverse)
 # "Data...ing?"
 
 >- I'm usually not one to "verb" my nouns (then use as a gerund)
+>- [*checks list of participants for "grammarian-in-residence"*]
 >- but I've heard this kind of thing happens on Twitter
 
 
@@ -60,7 +61,7 @@ library(tidyverse)
 
 # But "Data" as a verb?
 
->- I've heard of *data verbs*, just not "data" as a verb
+>- I've heard of *data verbs*, just not "data" *as* a verb
 
 >- Amelia McNamara helpfully pointed out (to my surprise) this too has precedent!
 
@@ -68,9 +69,9 @@ library(tidyverse)
 
 # Jer Thorp
 
-![image credit: Roman Makhmutov[^5] ](thorp.png)
+![image credit: Roman Makhmutov[^1] ](thorp.png)
 
-[^5]: Thorp, J. (2021). Living in data: A citizen's guide to a better information future. New York: MCD, Farrar, Straus and Giroux.
+[^1]: Thorp, J. (2021). Living in data: A citizen's guide to a better information future. New York: MCD, Farrar, Straus and Giroux.
 
 
 # Coming around...
@@ -96,13 +97,7 @@ library(tidyverse)
 ![(Academic) offspring of Joan Garfield & Bob delMas](Joan-Bob.jpg){ width=40% }
 
 >- if any of you know me, it's probably thanks to my ~~parents~~ PhD advisors Joan Garfield & Bob delMas
->- there's plenty more to my upbringing prior to Statistics Education, including lots that has almost nothing to do with academics...
-
-
-
-# Socializing with friends
-
-![An afternoon at the stadium.](football.jpg){ width 40% }
+>- there's plenty more to my upbringing before I ever got involved with Statistics Education, including lots that has almost nothing to do with academia!
 
 
 # Rebellious phase
@@ -110,6 +105,13 @@ library(tidyverse)
 <!-- I was once a rebellious young man... -->
 
 ![Who knows...](rebel.jpg){}
+
+
+
+# Social life
+
+![Sneaking onto the football field with a friend.](football.jpg){ width=45% }
+
 
 
 # My actual Mum & Dad
@@ -139,7 +141,7 @@ library(tidyverse)
 
 # Ecolab, Inc.
 
-![Image credit: Patrick Kennedy, Star Tribune[^1] ](ecolab.jpg){ width=40% }
+![Image credit: Patrick Kennedy, Star Tribune[^2] ](ecolab.jpg){ width=40% }
 
 \small 
 
@@ -152,7 +154,7 @@ library(tidyverse)
 
 
 
-[^1]: \footnotesize Kennedy, P., (6 Feb 2023). Ecolab now selling products at Home Depot — the first time available at retail stores. Star Tribune. URL:  https://www.startribune.com/ecolab-now-selling-products-at-home-depot-the-first-time-available-at-retail-store/600249463/
+[^2]: \footnotesize Kennedy, P., (6 Feb 2023). Ecolab now selling products at Home Depot — the first time available at retail stores. Star Tribune. URL:  https://www.startribune.com/ecolab-now-selling-products-at-home-depot-the-first-time-available-at-retail-store/600249463/
 
 
 # 8 yrs in Medical Technology
@@ -179,13 +181,13 @@ library(tidyverse)
 
 # Nonin Medical. Inc 
 
-![image credit: Michael Heisson[^2] ](nonin.png){ width=30% }
+![image credit: Michael Heisson[^3] ](nonin.png){ width=30% }
 
 - Senior Biostatistican ("only" statistician...)
 - Internal & external collaborations (e.g., anesthesiology research, clinical trial design, etc)
 
 
-[^2]: \footnotesize Lee, E., (4 Oct 2022). The Best Pulse Oximeter for Home Use. New York Times Wirecutter. URL: https://www.nytimes.com/wirecutter/reviews/best-pulse-oximeter-for-home-use/
+[^3]: \footnotesize Lee, E., (4 Oct 2022). The Best Pulse Oximeter for Home Use. New York Times Wirecutter. URL: https://www.nytimes.com/wirecutter/reviews/best-pulse-oximeter-for-home-use/
 
 
 # Back to Medtronic!?  
@@ -215,7 +217,7 @@ library(tidyverse)
 
 ![](mentor.jpg){ width=40% }
 
-# Personal reflections from my industry experience
+# Personal reflections from industry
 
 - I began to notice gaps between my expectations/assumptions for my contributions at work and the reality of my experiences on the job... 
 
@@ -227,16 +229,18 @@ library(tidyverse)
 
 <!-- Impossible to predict *which* 20% you'll need on the job! Far more important is the ability to self-educate.  -->
 
+# Personal reflections from industry
+
 >- *Mind the gap*: The statisticians on my team were regularly requested to engage with myriad issues that were **not at all statistical** in nature. 
 
->- **Bad** reason this gap might emerge: management may not understand how statisticians best contribute to the organization[^3]
+>- **Bad** reason this gap might emerge: management may not understand how statisticians best contribute to the organization[^4]
 
 <!-- Hence the gap -->
 
->- **Good** this gap might emerge: (coming up later...)
+>- **Good** reason this gap might emerge: (coming up later...)
 
 
-[^3]: Deming, W. E. (2000). Out of the Crisis. MIT Press.
+[^4]: Deming, W. E. (2000). Out of the Crisis. MIT Press.
 
 # 
 
@@ -274,12 +278,14 @@ library(tidyverse)
 
 # Mind the gap: EDA
 
-> Perceived value vs potential contribution of EDA (exploratory data analysis)
+> Perceived value vs potential contribution of EDA[^6] 
 
 
 <!-- advanced stat & DS students, in particular -->
 <!-- equated to summary statistics & a few cursory plots -->
 <!-- temptation to rush into statistical modelling–to jump ahead to the “answers” -->
+
+[^6]: Exploratory Data Analysis
 
 
 # Mind the gap: EDA
@@ -289,7 +295,7 @@ library(tidyverse)
 >- with an acronym to help remember it
 
 
-# EDA Framework (2019)
+# EDA Framework (1st attempt)
 
 ### Get in "B-E-D" with your data
 
@@ -311,89 +317,132 @@ library(tidyverse)
 
 >- **Address research questions:** build intuition and note preliminary observations/conclusions related to each research question.  Also, note observations that prompt you to refine your research questions or add new questions to investigate
 
->- p.s. Lonneke's work included a concise summary of literature that I think aligns quite closely with the "E" step!
-
-
-# Mind the gap: Opportunity for research
+>- p.s. Lonneke's work included a concise summary of literature that I think improves upon the "E" step!
 
 
 
-# Mind the gap: Opportunity for research
+# Mind the gap: Opportunity for research?
+
+
+
+# Mind the gap: Statistical Thinking
 
 ![](w-p_1999.png){ width=95% }
 
-![Opening vignette from one of my all-time favorite papers.[^6] ](w-p_1999(2).png){ width=95% }
+![Opening vignette from one of my all-time favorite papers.[^5] ](w-p_1999(2).png){ width=95% }
 
 
-[^6]: Wild, C. J., Pfannkuch, M. (1999).  Statistical thinking in empirical enquiry. International Statistical Review, 67(3), pp 223-265.
+[^5]: Wild, C. J., Pfannkuch, M. (1999).  Statistical thinking in empirical enquiry. International Statistical Review, 67(3), pp 223-265.
 
 
+# *Thinking Statistically*
 
+>- Recall: *Mind the gap*: Statisticians like me were regularly requested to engage with myriad issues at Medtronic that were **not at all statistical** in nature... 
 
+>- *Bad* reason: management unclear what contribution statisticians offer to the organization
 
+<!-- Hence the gap -->
 
+>- **Good reason**: perhaps my colleagues recognized that *statistical thinking transfers*
 
-
-# Slide 1
-
-- item 1
-- item 2
-
-### Box
-
-1. item
-2. item
+  >- Disciplined approach to problem solving & critical thinking
+  >- Due consideration for uncertainty, alternate explanations, and practical implications
 
 
 
-# Slide 2
+# Mind the gap: Data & Data-ing
 
-- Cite stuff people have already done[^5]
-- Link to URL's: <https://en.wikipedia.org/wiki/URL>
-
-[^5]: American Statistical Association Undergraduate Guidelines Workgroup (2014). *Curriculum guidelines for undergraduate programs in statistical science.*
+>"the pair data and data-ing refers to a similar conceptualization of the relation between sample and sampling, or model and modeling, where the first is the statistical concept and the second refers to the process of engaging or reasoning with this concept."
 
 
-
-# Here's a table
-
-| Col1 | Col2 | 
-|:--------------:|:-----------|
-| 1 |  One |
-| 2 |  Two |
-| 3 |  Three |
-| 4 |  Four  |
-| 5 |  Five  |
-| 6 |  Six  |
+>- So, why verb the noun??  
+>- Maybe because a verb for the action we're describing *doesn't exist*! 
 
 
+# What *IS* data-ing?
+
+>- Something new to be explored?
+>- Something familiar by another name?
+>- Is my framework for EDA better described as data-ing?
+>- Is data-ing a superset of all ways one might act upon data??
 
 
-# Acknowledgments
+# What actions might data-ing include?
 
-- So many to thank
-
-
-
-# References
-
-\footnotesize
-
-1. American Statistical Association Undergraduate Guidelines Workgroup (2014). 2014 Curriculum guidelines for undergraduate programs in statistical science. Alexandria, VA: American Statistical Association. http://www.amstat.org/education/curriculumguidelines.cfm
+-	data collection (Yannik & Susanne)
+-	variable creation/recognition (Amelia & Sibel)
+-	modeling and interpretation of data (Lucia)
+- data cleaning (Many SRTL-ers)
 
 
+# How else might we "engage with data"
 
-# Q & A 
+
+>- Andee & Michal probe evaluation of which data **needed** to achieve the scientific purposes? 
+
+>- Proxy variables when we encounter a gap in the available (or accessible) data to achieve the scientific purpose of our analysis–really important part of "data-ing" as an applied statistician, but these are motivated by the scientific domain
+
+-	Carl & Kym evoke notions about data and empowering students to uncover rich (multivariate) stories
+
+-	Alyssa seeks to examine the interface between computational thinking and data-ing 
+
+
+# How well-defined is "data"
+
+-	Jill & Lonneke discuss consuming and evaluating evidence–and implications of data-ing when engaged with forms of evidence more broadly concieved than has been typical for classical data analysis
+
+- Is "messy" data well-defined?
+    - any deviation from tidy data[^7]?
+    - Amelia & Kym discuss intuition of data cards 
+
+<!-- data cards closer to a hierarchical structure than tidy structure? -->
+
+<!-- -	Carl even sought to coax out "Messy Data" from stories composed by students as a means to broaden thinking about "what is data" -->
+<!--   -	What makes data messy?   -->
+<!--   -	many of the extended abstracts discussed messy data,  -->
+
+-	Ronit remarked on "big data" and "big data-ing"
+    - is this different?
+    - how?
+    
+<!-- -	Just when does a lot of data become big data (capitalized)? -->
+
+<!-- -	Personal theory–"big" is relative and refers to volume, variety, or velocity that is disruptive to the available technology or intended analysis -->
+<!--   -	Pen & Paper: Big = < 25 observations -->
+<!--   -	TI-83 Graphing Calculator: Big = 100 observations -->
+<!--   -	MS Excel: Big > 1,048,576 rows OR 16,384 columns -->
+<!--   -	My computer + R: Big > available RAM -->
+<!--   -	This would suggest "big data-ing" might have some new or distinct considerations -->
+
+
+
+[^7]: Wickham, H. (2014). Tidy data. Journal of Statistical Software, 59(10). DOI: 10.18637/jss.v059.i10
+
+
+
+
+# 
+
+![image created with assistance of DALL·E 2 by Open AI](DALLE roadmap.png){ width=85% }
+
+
+
+<!-- # References -->
+
+<!-- \footnotesize -->
+
+<!-- 1. Wild, C. J., Pfannkuch, M. (1999).  Statistical thinking in empirical enquiry. International Statistical Review, 67(3), pp 223-265. -->
+
+
+
+# 
 
 
 \titlepage
 
 
-Include URL for gh-pages site for presentation
 
 
-
-# Backup slide
 
 
 
