@@ -386,6 +386,11 @@ library(tidyverse)
 
 -	Alyssa seeks to examine the interface between computational thinking and data-ing 
 
+- Would data-ing differ if we favor an algorithmic rather than inferential "culture" of statistical modeling?[^8] 
+
+[^8]: Breiman, L. (2001). Statistical modeling: The two cultures. Statistical science, 16(3), 199-231.
+
+
 
 # How well-defined is "data"
 
@@ -427,11 +432,16 @@ library(tidyverse)
 
 
 
-<!-- # References -->
+# References
 
 <!-- \footnotesize -->
 
-<!-- 1. Wild, C. J., Pfannkuch, M. (1999).  Statistical thinking in empirical enquiry. International Statistical Review, 67(3), pp 223-265. -->
+- Breiman, L. (2001). Statistical modeling: The two cultures. *Statistical science, 16*(3), 199-231.
+- Deming, W. E. (2000). *Out of the Crisis*. MIT Press.
+- Tukey, J. (1977). *Exploratory Data Analysis*. Vol 2.
+- Wickham, H. (2014). Tidy data. *Journal of Statistical Software, 59*(10). DOI: 10.18637/jss.v059.i10
+- Wild, C. J., Pfannkuch, M. (1999).  Statistical thinking in empirical enquiry. *International Statistical Review, 67*(3), pp 223-265.
+
 
 
 
