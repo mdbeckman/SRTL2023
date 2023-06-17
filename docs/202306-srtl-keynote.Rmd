@@ -100,14 +100,6 @@ library(tidyverse)
 
 
 
-# My actual Mum & Dad
-
-<!-- raised by kind and patient parents... -->
-
-
-![Marian & Don Beckman](parents.jpg){ width=50% }
-
-
 # Socializing with friends
 
 ![An afternoon at the stadium.](football.jpg){ width 40% }
@@ -119,6 +111,13 @@ library(tidyverse)
 
 ![Who knows...](rebel.jpg){}
 
+
+# My actual Mum & Dad
+
+<!-- raised by kind and patient parents... -->
+
+
+![Marian & Don Beckman](parents.jpg){ width=50% }
 
 # Got an education...
 
@@ -247,8 +246,13 @@ library(tidyverse)
 
 <!-- I found myself encountering all sorts of gaps like this. between what others expected or assumed of statistics and what I understood to be my purpose or contribution. --> 
 
-![image created with assistance of DALL·E 2 by Open AI](gap.png)
+![image created with assistance of DALL·E 2 by Open AI](gap.png){ width=95% }
 
+# Mind the gap
+
+![image created with assistance of DALL·E 2 by Open AI](gap.png){ width=30% }
+
+<!-- https://upload.wikimedia.org/wikipedia/commons/5/59/GT_Mind_the_gap_London_Underground_mock_version.ogg -->
 
 - Role of statisticians at work
 - Public perception of Statistics
@@ -316,11 +320,19 @@ library(tidyverse)
 
 # Mind the gap: Opportunity for research
 
-![One of my all-time favorite papers.](w-p_1999.png){ width=95% }
-![Opening vignette[^6] ](w-p_1999(2).png){ width=95% }
+![](w-p_1999.png){ width=95% }
+
+![Opening vignette from one of my all-time favorite papers.[^6] ](w-p_1999(2).png){ width=95% }
 
 
 [^6]: Wild, C. J., Pfannkuch, M. (1999).  Statistical thinking in empirical enquiry. International Statistical Review, 67(3), pp 223-265.
+
+
+
+
+
+
+
 
 # Slide 1
 
