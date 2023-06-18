@@ -192,7 +192,7 @@ library(tidyverse)
 
 # Nonin Medical. Inc 
 
-![image credit: Michael Heisson[^3] ](nonin.png){ width=30% }
+![Nonin Pulse Oximeter. image credit: Michael Heisson[^3] ](nonin.png){ width=30% }
 
 - Senior Biostatistican ("only" statistician...)
 - Internal & external collaborations (e.g., anesthesiology research, clinical trial design, etc)
@@ -213,15 +213,13 @@ library(tidyverse)
 
 - Next Stop: Penn State! 
 
->- When I was a few years younger, people gave me puzzled looks when I described my background...
+>- When I was a few years younger, people gave me puzzled looks when I described this background...
 
 >- You know that look when someone is calculating your age while you talk with them? 
 
->- *college grad at 21 yrs + 2 yrs (MS Statistics) + 8 yrs industry + 5 yrs (PhD) + yrs as Penn State faculty...*
+>- *college grad at 21 yrs + 2 yrs (MS Statistics) + 8 yrs (industry) + 5 yrs (PhD) + yrs as Penn State faculty... how old did he say his kids are?*
 
->- *hmm... he doesn't look old enough for all that*
-
->- *... but I don't think he's a boy-genius that finished college at 16 either*
+>- *hmm... something doesn't add up*
 
 >- Life hack: I earned my PhD *while* working full-time 
 
@@ -257,15 +255,20 @@ library(tidyverse)
 
 \titlepage
 
-# Mind the gap
+# [Mind the gap](https://upload.wikimedia.org/wikipedia/commons/5/59/GT_Mind_the_gap_London_Underground_mock_version.ogg)
 
 <!-- I found myself encountering all sorts of gaps like this. between what others expected or assumed of statistics and what I understood to be my purpose or contribution. --> 
 
-![image created with assistance of DALL·E 2 by Open AI](gap.png){ width=95% }
+![image credit: https://www.stuff.co.nz/travel/78997789/mind-the-gap-voice-of-london-tube-dies](mind-the-gap.jpeg){ width=75% }
 
 # Mind the gap
 
-![image created with assistance of DALL·E 2 by Open AI](gap.png){ width=30% }
+![https://www.gapminder.org/](gapminder.png)
+
+# [Mind the gap](https://upload.wikimedia.org/wikipedia/commons/5/59/GT_Mind_the_gap_London_Underground_mock_version.ogg)
+
+
+![](mind-the-gap.jpeg){ width=50% }
 
 <!-- https://upload.wikimedia.org/wikipedia/commons/5/59/GT_Mind_the_gap_London_Underground_mock_version.ogg -->
 
@@ -346,6 +349,8 @@ library(tidyverse)
 [^5]: Wild, C. J., Pfannkuch, M. (1999).  Statistical thinking in empirical enquiry. International Statistical Review, 67(3), pp 223-265.
 
 
+<!-- This is a success story of Stat Ed Research--a gap identified, carefully researched, and now PPDAC is on the wall of every classroom in NZ! -->
+
 # *Thinking Statistically*
 
 >- Recall: *Mind the gap*: Statisticians like me were regularly requested to engage with myriad issues at Medtronic that were **not at all statistical** in nature... 
@@ -368,6 +373,18 @@ library(tidyverse)
 
 >- So, why verb the noun??  
 >- Maybe because a verb for the action we're describing *doesn't exist*! 
+
+>- Cue SRTL Theatre (with apologies to Chris & Maxine)
+>- *"Just doing data analysis isn't enough... we need to train our students to be *data-ing*"*
+>- *"What* is *data-ing??"*
+>- *"Meet me in Maleny and let's find out!"*
+
+
+<!-- Gap in our lexicon -->
+<!-- The word doesn't exist -->
+<!-- Like the vignette about Statistical thinking--we've stumbled across a clear need to research an important topic... -->
+<!-- What's the benefit to unifying our understanding of data-ing?  Developing frameworks for data-ing -->
+
 
 
 # What *IS* data-ing?
@@ -414,7 +431,7 @@ library(tidyverse)
     - Amelia & Kym discuss intuition of data cards 
 
 -	What is "big data"??[^10]
-    - Volume? Velocity? Variety?[^8] 
+    - Volume? Velocity? Variety?[^9] 
     - Does "messier" make it "bigger"
     - Is the distinction absolute or relative? 
     - how will this make "big data-ing" different?
@@ -442,7 +459,7 @@ library(tidyverse)
 
 [^7]: Wickham, H. (2014). Tidy data. Journal of Statistical Software, 59(10). DOI: 10.18637/jss.v059.i10
 
-[^8]: Laney, D. (2001). 3D data management: Controlling data volume, velocity and variety. In: Meta Group.
+[^9]: Laney, D. (2001). 3D data management: Controlling data volume, velocity and variety. In: Meta Group.
 
 [^10]: Kitchin, R., & McArdle, G. (2016). What makes Big Data, Big Data? Exploring the ontological characteristics of 26 datasets. *Big Data & Society, 3*(1).
 
