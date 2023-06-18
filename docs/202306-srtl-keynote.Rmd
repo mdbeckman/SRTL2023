@@ -78,9 +78,9 @@ library(tidyverse)
 
 >- "the pair data and data-ing refers to a similar conceptualization of the relation between sample and sampling, or model and modeling, where the first is the statistical concept and the second refers to the process of engaging or reasoning with this concept."
 
->- *This* resonates with me... 
+>- *This* resonates with me
 
->- and it's starting to sound like something I've observed before
+>- and it's starting to sound familiar...
 
 
 # What perspective can I offer?
@@ -98,6 +98,11 @@ library(tidyverse)
 
 >- if any of you know me, it's probably thanks to my ~~parents~~ PhD advisors Joan Garfield & Bob delMas
 >- there's plenty more to my upbringing before I ever got involved with Statistics Education, including lots that has almost nothing to do with academia!
+
+
+# 
+
+![](map.png)
 
 
 # Rebellious phase
@@ -135,9 +140,9 @@ library(tidyverse)
 ![Met my wife in Minnesota and began a career in statistics.](ms-degree.jpg){ width=50% }
 
 
-# Where the magic happens...
+# 8 years as statistician 
 
-![Working late...](cubicle.jpg){ width=80% }
+![Where the magic happens...](cubicle.jpg){ width=80% }
 
 # Ecolab, Inc.
 
@@ -147,7 +152,7 @@ library(tidyverse)
 
 - Started out at Ecolab working in R&D (+ Eng) 
 - Interned with a small team of staff statistical consultants
-- Typical Data: Lots of design & analysis of experiments
+- Typical data for data-ing: Lots of design & analysis of experiments
 - Assist teaching in-house statistics courses for Engineers, Mgmt, scientists, etc (Intro, DOE, MSA, SPC, RDSA)
 
 <!-- - Also support a training mission–helped develop and teach short (1 week) courses for scientists, engineers, and others to teach them [statistical reasoning and statistical thinking] --> 
@@ -157,26 +162,32 @@ library(tidyverse)
 [^2]: \footnotesize Kennedy, P., (6 Feb 2023). Ecolab now selling products at Home Depot — the first time available at retail stores. Star Tribune. URL:  https://www.startribune.com/ecolab-now-selling-products-at-home-depot-the-first-time-available-at-retail-store/600249463/
 
 
-# 8 yrs in Medical Technology
+# Medtronic, PLC
 
-![image credit: https://asiapac.medtronic.com/xp-en/about.html](mdt.png){ width=40% }
+![Medtronic Headquarters. image credit: https://asiapac.medtronic.com/xp-en/about.html](mdt.png){ width=40% }
 
 \small 
 
-<!-- (largest medical technology company in the world) -->
-<!-- $30B revenue; $114B market cap; and Google says so -->
+<!-- $30 B revenue; $114 B market cap; and Google says so -->
 
-
+- World's largest medical technology company
 - Hired due to commitment to government regulators! 
 <!-- Statistician into Reg Org–monitor adverse events every month -->
 
-- Typical data: verbatim complaints from call center, manufacturing lines, clinical, sales & registration data, engineering diagnostics from in-house returned product analysis, lots more!
+- Data for Data-ing: verbatim complaints from call center, manufacturing lines, *some* clinical, sales & registration data, engineering diagnostics from in-house returned product analysis, lots more!
 
-<!-- Keenan– "what happens when a competent statistician gets dropped into a sea of engineers? YOU GET BUSY" -->
 
-- Promoted to Senior Statistician; broader involvement including Quality, Manufacturing, R&D, Marketing, HR/Personnel, Six Sigma
-- Regularly tasked with discussing/explaining statistical methodology and procedures to government regulators (e.g., post-market surveillance)
-- Develop & teach in-house statistics courses (again!)
+
+# Medtronic, PLC
+
+![Medtronic Headquarters. image credit: https://asiapac.medtronic.com/xp-en/about.html](mdt.png){ width=40% }
+
+>- "What happens when a competent statistician gets released into a sea of engineers?" 
+>- "YOU GET BUSY!!" ~Tom Keenan (Matt's mentor at Medtronic)
+>- Promoted to Senior Statistician 
+>- Broader involvement including Quality, Manufacturing, R&D, Marketing, HR/Personnel, Six Sigma
+>- Regularly tasked with discussing/explaining statistical methodology and procedures to government regulators (e.g., post-market surveillance)
+>- Develop & teach in-house statistics courses (again!)
 
 
 # Nonin Medical. Inc 
@@ -185,7 +196,7 @@ library(tidyverse)
 
 - Senior Biostatistican ("only" statistician...)
 - Internal & external collaborations (e.g., anesthesiology research, clinical trial design, etc)
-
+- Data for Data-ing: all of it.
 
 [^3]: \footnotesize Lee, E., (4 Oct 2022). The Best Pulse Oximeter for Home Use. New York Times Wirecutter. URL: https://www.nytimes.com/wirecutter/reviews/best-pulse-oximeter-for-home-use/
 
