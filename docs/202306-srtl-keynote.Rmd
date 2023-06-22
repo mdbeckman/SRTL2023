@@ -44,8 +44,7 @@ library(tidyverse)
 
 # 
 
-\titlepage
-
+![](title3.jpg)
 
 # "Data...ing?"
 
@@ -57,6 +56,7 @@ library(tidyverse)
 # \# ADULTING
 
 ![image credit: Grammarist.  URL: https://grammarist.com/new-words/adulting/](adulting.png){ width=95% }
+
 
 
 # But "Data" as a verb?
@@ -72,6 +72,7 @@ library(tidyverse)
 ![image credit: Roman Makhmutov[^1] ](thorp.png)
 
 [^1]: Thorp, J. (2021). Living in data: A citizen's guide to a better information future. New York: MCD, Farrar, Straus and Giroux.
+
 
 
 # Coming around...
@@ -100,9 +101,6 @@ library(tidyverse)
 >- there's plenty more to my upbringing before I ever got involved with Statistics Education, including lots that has almost nothing to do with academia!
 
 
-# 
-
-![](map.png)
 
 
 # Rebellious phase
