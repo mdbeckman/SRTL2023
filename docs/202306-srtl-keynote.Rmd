@@ -44,6 +44,10 @@ library(tidyverse)
 
 # 
 
+![](title2.jpg)
+
+# 
+
 ![](title3.jpg)
 
 # "Data...ing?"
@@ -69,7 +73,7 @@ library(tidyverse)
 
 # Jer Thorp
 
-![image credit: Roman Makhmutov[^1] ](thorp.png)
+![image credit: Roman Makhmutov[^1] ](thorp.png){ width=80% }
 
 [^1]: Thorp, J. (2021). Living in data: A citizen's guide to a better information future. New York: MCD, Farrar, Straus and Giroux.
 
@@ -127,6 +131,7 @@ library(tidyverse)
 # Got an education...
 
 <!-- I studied mathematics in college... -->
+
 
 ![](college.jpg){ width=90% }
 
@@ -261,6 +266,10 @@ library(tidyverse)
 
 # Mind the gap
 
+![](mind-the-gap2.png){ width=75% }
+
+# Mind the gap
+
 ![https://www.gapminder.org/](gapminder.png)
 
 # [Mind the gap](https://upload.wikimedia.org/wikipedia/commons/5/59/GT_Mind_the_gap_London_Underground_mock_version.ogg)
@@ -274,6 +283,14 @@ library(tidyverse)
 - Public perception of Statistics
 - Student perception of EDA
 - Opportunities for research
+
+# Mind the gap: statisticians at work
+
+- Previously 
+
+>As a statistical consultant, the first project with a first-time client is usually a disaster.
+
+(Paraphrase of Sandy Weisberg)
 
 
 # Mind the gap: In the public
@@ -372,16 +389,14 @@ library(tidyverse)
 >- So, why verb the noun??  
 >- Maybe because a verb for the action we're describing *doesn't exist*! 
 
->- Cue SRTL Theatre (with apologies to Chris & Maxine)
->- *"Just doing data analysis isn't enough... we need to train our students to be *data-ing*"*
->- *"What* is *data-ing??"*
->- *"Meet me in Maleny and let's find out!"*
+<!-- >- Cue SRTL Theatre (with apologies to Chris & Maxine) -->
+<!-- >- *"Just doing data analysis isn't enough... we need to train our students to be *data-ing*"* -->
+<!-- >- *"What* is *data-ing??"* -->
+<!-- >- *"Meet me in Maleny and let's find out!"* -->
 
 
 <!-- Gap in our lexicon -->
 <!-- The word doesn't exist -->
-<!-- Like the vignette about Statistical thinking--we've stumbled across a clear need to research an important topic... -->
-<!-- What's the benefit to unifying our understanding of data-ing?  Developing frameworks for data-ing -->
 
 
 
@@ -391,7 +406,7 @@ library(tidyverse)
 >- Something familiar by another name?
 >- An intersection?
 >- A superset?
->- What about Gapminder? Dollar Street? Factfulness? 
+
 
 
 # What actions might data-ing include?
@@ -462,10 +477,34 @@ library(tidyverse)
 [^10]: Kitchin, R., & McArdle, G. (2016). What makes Big Data, Big Data? Exploring the ontological characteristics of 26 datasets. *Big Data & Society, 3*(1).
 
 
+
 # 
 
-![image created with assistance of DALL·E 2 by Open AI](DALLE roadmap.png){ width=85% }
+>- I'm struck by the parallel to the vignette about Statistical thinking... 
 
+>- The idea of data-ing seems to have been right in front of us all along,  
+
+>- it's something we value, 
+
+>- and want our students to value, 
+
+>- and yet we don't even know what to call it!!
+
+>- What might we learn as we refine our view of data-ing together?  
+
+>- In what ways might we reconceptualize data?
+
+
+#
+
+>"How does one speak about something that is both fish and water, means as well as end?" -- Ursula Franklin[^11]
+
+>- epigraph of Jer Thorp's "Living in Data"...
+
+>- and perhaps SRTL-13 as well??
+
+
+[^11]: Franklin, U. (1990). The Real World of Technology. CBC Enterprises: Toronto
 
 
 # References
