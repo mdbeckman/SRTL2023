@@ -53,7 +53,7 @@ library(tidyverse)
 # "Data...ing?"
 
 >- I'm usually not one to "verb" my nouns (then use as a gerund)
->- [*checks list of participants for "grammarian-in-residence"*]
+>- [*checks list of participants for a "grammarian-in-residence"*]
 >- but I've heard this kind of thing happens on Twitter
 
 
@@ -117,7 +117,7 @@ library(tidyverse)
 
 # Social life
 
-![Sneaking onto the football field with a friend.](football.jpg){ width=45% }
+![Sneaking onto an event at the stadium with a friend.](football.jpg){ width=45% }
 
 
 
@@ -185,8 +185,10 @@ library(tidyverse)
 
 ![Medtronic Headquarters. image credit: https://asiapac.medtronic.com/xp-en/about.html](mdt.png){ width=40% }
 
+\small 
+
 >- "What happens when a competent statistician gets released into a sea of engineers?" 
->- "YOU GET BUSY!!" ~Tom Keenan (Matt's mentor at Medtronic)
+>- "YOU GET BUSY!!" ~Tom Keenan (Matt's MDT mentor)
 >- Promoted to Senior Statistician 
 >- Broader involvement including Quality, Manufacturing, R&D, Marketing, HR/Personnel, Six Sigma
 >- Regularly tasked with discussing/explaining statistical methodology and procedures to government regulators (e.g., post-market surveillance)
@@ -206,7 +208,7 @@ library(tidyverse)
 
 # Back to Medtronic!?  
 
-
+\small
 
 - Back to Medtronic for a lame duck session
 
@@ -214,17 +216,27 @@ library(tidyverse)
 
 <!-- Sidebar: people used to worry about jobs being automated away... do you know what happens if you're hired to a job and then he you automate your own job function? Spoiler: you don't get fired... you get promoted! --> 
 
-- Next Stop: Penn State! 
+-  Next Stop: Penn State! 
+
+# 
+
+![image credit: Penn State Office of Physical Plant](psu_shortlidge_mall.jpg){ width=95% }
+
+# Sidebar 
 
 >- When I was a few years younger, people gave me puzzled looks when I described this background...
 
->- You know that look when someone is calculating your age while you talk with them? 
+>- Ever experience that look when someone seems to be calculating your age while you talk with them? 
 
->- *college grad at 21 yrs + 2 yrs (MS Statistics) + 8 yrs (industry) + 5 yrs (PhD) + yrs as Penn State faculty... how old did he say his kids are?*
+>- When did you say you graduated?  
 
->- *hmm... something doesn't add up*
+>- How old did you say your kids are?
 
->- Life hack: I earned my PhD *while* working full-time 
+>- ...and you worked there how many years? 
+
+>- [*hmm... something isn't adding up*]
+
+>- Life hack: I earned my PhD *while* working full-time (and child-rearing)
 
 
 
@@ -243,7 +255,7 @@ library(tidyverse)
 
 # Personal reflections from industry
 
->- *Mind the gap*: The statisticians on my team were regularly requested to engage with myriad issues that were **not at all statistical** in nature. 
+>- *Mind the gap*: I noticed statisticians were regularly requested to engage with myriad issues that were **not at all statistical** in nature. 
 
 >- **Bad** reason this gap might emerge: management may not understand how statisticians best contribute to the organization[^4]
 
@@ -266,7 +278,7 @@ library(tidyverse)
 
 # Mind the gap
 
-![](mind-the-gap2.png){ width=75% }
+![Some gaps are bigger than others!](mind-the-gap2.png){ width=95% }
 
 # Mind the gap
 
@@ -296,23 +308,24 @@ library(tidyverse)
 # Mind the gap: In the public
 
 
-> statistics vs Statistics
+>- *statistics vs Statistics*
 
-<!-- I meet students all the time that tell me they became interested in studying statistics by watching sports... -->
+>- I meet students all the time that tell me they became interested in studying statistics by watching sports... 
 
-<!-- - a "statistic" could be regarded as a collective property of some data (e.g., a quantity calculated from a sample) -->
+>- a "statistic" could be regarded as a collective property of some data (e.g., a quantity calculated from a sample)
 
-<!-- - Statistics (the field) – among the greatest contributions of our field is the means to accommodate, characterize, and even quantify **variability** and **uncertainty**  -->
-
-
-# Mind the gap: EDA
-
-> Perceived value vs potential contribution of EDA[^6] 
+>- Among the greatest contributions the field of Statistics offers the world is the means to appropriately accommodate, characterize, and even quantify **variability** and **uncertainty** 
 
 
-<!-- advanced stat & DS students, in particular -->
-<!-- equated to summary statistics & a few cursory plots -->
-<!-- temptation to rush into statistical modelling–to jump ahead to the “answers” -->
+# Mind the gap: EDA[^6]
+
+>- Perceived value vs potential contribution of EDA 
+
+>- even (maybe especially) among a group I'll call "advanced novices"
+
+>- temptation to rush into statistical modelling and skip ahead to "get the answers"
+
+>- EDA = summary statistics & cursory plots (to appease Professor)
 
 [^6]: Exploratory Data Analysis
 
@@ -320,8 +333,8 @@ library(tidyverse)
 # Mind the gap: EDA
 
 >- My solution? 
->- my students need a framework for a careful EDA
->- with an acronym to help remember it
+>- maybe my students just need a framework for a careful EDA
+>- with an acronym to help remember it!
 
 
 # EDA Framework (1st attempt)
@@ -332,17 +345,17 @@ library(tidyverse)
 >- **E**xplore intuition for your research question(s)
 >- **D**iscover features in the data that impact modeling decisions
 
+>- ...not a great acronym
 
 
 # EDA Framework (2nd attempt)
 
-...not a great acronym
 
-### Let's just reuse "EDA" instead
+### Let's just reuse "E-D-A" instead!
 
 >- **Examine the data source(s)**: data provenance, variable types, coding, missingness, summary statistics/plots; 
 
->- **Discover features that influence may modeling decisions:** investigate potential outliers, consideration for recoding variables (e.g., numeric data that's functionally dichotomous), evaluate correlation structure (e.g., autocorrelation, hierarchy, spatial/temporal proximity);
+>- **Discover features that influence may modeling decisions:** investigate potential outliers, consideration for recoding variables (e.g., numeric data that's functionally dichotomous), threats to modeling assumptions (*especially* independence);
 
 >- **Address research questions:** build intuition and note preliminary observations/conclusions related to each research question.  Also, note observations that prompt you to refine your research questions or add new questions to investigate
 
@@ -358,7 +371,7 @@ library(tidyverse)
 
 ![](w-p_1999.png){ width=95% }
 
-![Opening vignette from one of my all-time favorite papers.[^5] ](w-p_1999(2).png){ width=95% }
+![Opening vignette from one of my favorite papers.[^5] ](w-p_1999(2).png){ width=95% }
 
 
 [^5]: Wild, C. J., Pfannkuch, M. (1999).  Statistical thinking in empirical enquiry. International Statistical Review, 67(3), pp 223-265.
@@ -374,10 +387,10 @@ library(tidyverse)
 
 <!-- Hence the gap -->
 
->- **Good reason**: perhaps my colleagues recognized that *statistical thinking transfers*
-
+>- **Good reason**: perhaps my colleagues recognized that we don't just "do statistics" we're experts at *thinking statistically*!
+  >- I argue that *statistical thinking transfers*
   >- Disciplined approach to problem solving & critical thinking
-  >- Due consideration for uncertainty, alternate explanations, and practical implications
+  >- Due consideration for uncertainty, alternative explanations, and practical implications
 
 
 
@@ -413,8 +426,8 @@ library(tidyverse)
 
 -	data collection (Yannik & Susanne)
 -	variable creation/recognition (Amelia & Sibel)
--	modeling and interpretation of data (Lucia)
 - data cleaning (Many SRTL-ers)
+-	modeling and interpretation of data (Lucia)
 
 
 # More engaging and reasoning with data
