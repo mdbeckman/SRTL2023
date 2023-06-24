@@ -462,7 +462,47 @@ library(tidyverse)
     - Is the distinction absolute or relative? 
     - how will this make "big data-ing" different?
     
--	Jill & Lonneke discuss consuming and evaluating evidence–and implications of data-ing when engaged with forms of evidence more broadly concieved than has been typical for classical data analysis
+-	Jill & Lonneke discussed consuming and evaluating evidence–-and implications of data-ing when engaged with forms of evidence more broadly concieved than has been typical for classical data analysis
+
+
+
+
+[^7]: Wickham, H. (2014). Tidy data. Journal of Statistical Software, 59(10). DOI: 10.18637/jss.v059.i10
+
+[^9]: Laney, D. (2001). 3D data management: Controlling data volume, velocity and variety. In: Meta Group.
+
+[^10]: Kitchin, R., & McArdle, G. (2016). What makes Big Data, Big Data? Exploring the ontological characteristics of 26 datasets. *Big Data & Society, 3*(1).
+
+
+# my two cents?
+
+### Reconceptualizing data...
+
+>- I'm grateful that the popularity of data science has lead to a wider view of data
+
+>- I suspect use of Statistics has long been tempered by a focus on just the data we know how to handle
+
+>- I'm open-minded, but I have developed strong opinions about how we qualify "big" data, and it's a relativistic rather than absolute interpretation 
+
+>- I do wonder if there's similarly more to "messy" than the absolute distinction of whether or not the data are "tidy" (but perhaps not)
+
+
+# my two cents?
+
+### ... and data-ing
+
+
+>- I've been wondering if my response to the "EDA gap" was grasping at filling a "data-ing gap"
+
+>- Is "data-ing" necessarily a statistical issue?
+
+>- Despite a fantastic diversity of perspectives represented at SRTL-13, I expect we will find new gaps--aspects of "data-ing" that we perhaps haven't considered.
+
+>- Top of mind: some ways we engage & reason with data are not as closely linked to our statistical objectives
+
+>- Data architecture? security? privacy? reproducibility?  
+
+>- Will we convene as SRTL-13 and adjourn as **D**RTL-1??
 
 
 <!-- data cards closer to a hierarchical structure than tidy structure? -->
@@ -483,14 +523,6 @@ library(tidyverse)
 
 
 
-[^7]: Wickham, H. (2014). Tidy data. Journal of Statistical Software, 59(10). DOI: 10.18637/jss.v059.i10
-
-[^9]: Laney, D. (2001). 3D data management: Controlling data volume, velocity and variety. In: Meta Group.
-
-[^10]: Kitchin, R., & McArdle, G. (2016). What makes Big Data, Big Data? Exploring the ontological characteristics of 26 datasets. *Big Data & Society, 3*(1).
-
-
-
 # 
 
 >- I'm struck by the parallel to the vignette about Statistical thinking... 
@@ -501,7 +533,7 @@ library(tidyverse)
 
 >- and want our students to value, 
 
->- and yet we don't even know what to call it!!
+>- and yet we don't yet know where it begins and ends, or even what to call it!!
 
 >- What might we learn as we refine our view of data-ing together?  
 
@@ -510,11 +542,11 @@ library(tidyverse)
 
 #
 
->"How does one speak about something that is both fish and water, means as well as end?" -- Ursula Franklin[^11]
+>"How does one speak about something that is both fish and water, means as well as end?" --Ursula Franklin[^11]
 
 >- epigraph of Jer Thorp's "Living in Data"...
 
->- and perhaps SRTL-13 as well??
+>- and perhaps SRTL-13 / DRTL-1 as well??
 
 
 [^11]: Franklin, U. (1990). The Real World of Technology. CBC Enterprises: Toronto
