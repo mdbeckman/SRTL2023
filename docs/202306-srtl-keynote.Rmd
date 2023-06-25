@@ -52,7 +52,7 @@ library(tidyverse)
 
 # "Data...ing?"
 
->- I'm usually not one to "verb" my nouns (then use as a gerund)
+>- usually not one to "verb" my nouns (then use as a gerund)
 >- [*checks list of participants for a "grammarian-in-residence"*]
 >- but I've heard this kind of thing happens on Twitter
 
@@ -69,7 +69,6 @@ library(tidyverse)
 
 >- Amelia McNamara helpfully pointed out (to my surprise) this too has precedent!
 
->- Who would do such a thing?
 
 # Jer Thorp
 
@@ -81,11 +80,9 @@ library(tidyverse)
 
 # Coming around...
 
->- "the pair data and data-ing refers to a similar conceptualization of the relation between sample and sampling, or model and modeling, where the first is the statistical concept and the second refers to the process of engaging or reasoning with this concept."
+>"the pair data and data-ing refers to a similar conceptualization of the relation between sample and sampling, or model and modeling, where the first is the statistical concept and the second refers to the process of engaging or reasoning with this concept."
 
->- *This* resonates with me
 
->- and it's starting to sound familiar...
 
 
 # What perspective can I offer?
@@ -155,14 +152,15 @@ library(tidyverse)
 
 - Started out at Ecolab working in R&D (+ Eng) 
 - Interned with a small team of staff statistical consultants
-- Typical data for data-ing: Lots of design & analysis of experiments
-- Assist teaching in-house statistics courses for Engineers, Mgmt, scientists, etc (Intro, DOE, MSA, SPC, RDSA)
+- Assist teaching stat in-house (Intro, DOE, MSA, SPC, RDSA) 
+- Typical data for data-ing: Lots of design & analysis of experiments  
+- "Best way to stop yourself being *fooled* by the data is to *look* at it" --Paul Prew (Matt's ECL Mentor)
 
 <!-- - Also support a training mission–helped develop and teach short (1 week) courses for scientists, engineers, and others to teach them [statistical reasoning and statistical thinking] --> 
 
 
 
-[^2]: \footnotesize Kennedy, P., (6 Feb 2023). Ecolab now selling products at Home Depot — the first time available at retail stores. Star Tribune. URL:  https://www.startribune.com/ecolab-now-selling-products-at-home-depot-the-first-time-available-at-retail-store/600249463/
+[^2]: \footnotesize Kennedy, P., (6 Feb 2023). Ecolab now selling products at Home Depot — the first time available at retail stores. Star Tribune. 
 
 
 # Medtronic, PLC
@@ -179,29 +177,34 @@ library(tidyverse)
 
 - Data for Data-ing: verbatim complaints from call center, manufacturing lines, *some* clinical, sales & registration data, engineering diagnostics from in-house returned product analysis, lots more!
 
+- Q: "What happens when a competent statistician is released into a sea of engineers?" 
+
 
 
 # Medtronic, PLC
 
-![Medtronic Headquarters. image credit: https://asiapac.medtronic.com/xp-en/about.html](mdt.png){ width=40% }
+![](mdt.png){ width=40% }
 
 \small 
 
->- "What happens when a competent statistician gets released into a sea of engineers?" 
->- "YOU GET BUSY!!" ~Tom Keenan (Matt's MDT mentor)
->- Promoted to Senior Statistician 
->- Broader involvement including Quality, Manufacturing, R&D, Marketing, HR/Personnel, Six Sigma
+>- A: "YOU GET *BUSY*!!" ~Tom Keenan (Matt's MDT mentor)
+>- Broader involvement including Quality, Manufacturing, R&D, Engineering, Marketing, HR/Personnel, Six Sigma
+
+<!-- Lots of new data for data-ing as a result  -->
+
+>- "The company feels the mean, the customers feel the tails." --TK
+>- "Our job is to prosecute the war on variation!" --TK
 >- Regularly tasked with discussing/explaining statistical methodology and procedures to government regulators (e.g., post-market surveillance)
 >- Develop & teach in-house statistics courses (again!)
 
 
-# Nonin Medical. Inc 
+# Nonin Medical, Inc 
 
-![Nonin Pulse Oximeter. image credit: Michael Heisson[^3] ](nonin.png){ width=30% }
+![Pulse Oximeter. image credit: Michael Heisson[^3] ](nonin.png){ width=30% }
 
 - Senior Biostatistican ("only" statistician...)
-- Internal & external collaborations (e.g., anesthesiology research, clinical trial design, etc)
-- Data for Data-ing: all of it.
+- Internal & external collaborations (e.g., physician researchers, clinical trial design, etc)
+- Data for Data-ing: all of it! Primarily clinical trails.
 
 [^3]: \footnotesize Lee, E., (4 Oct 2022). The Best Pulse Oximeter for Home Use. New York Times Wirecutter. URL: https://www.nytimes.com/wirecutter/reviews/best-pulse-oximeter-for-home-use/
 
@@ -212,11 +215,13 @@ library(tidyverse)
 
 - Back to Medtronic for a lame duck session
 
-- Goals: clean up special projects, train new statisticians (& business analysts) and help automate my own job away (!) 
+>- Goals: clean up special projects, train new statisticians (& business analysts)...
+
+>- and *help automate my old job away*! 
 
 <!-- Sidebar: people used to worry about jobs being automated away... do you know what happens if you're hired to a job and then he you automate your own job function? Spoiler: you don't get fired... you get promoted! --> 
 
--  Next Stop: Penn State! 
+>-  Next Stop: Penn State! 
 
 # 
 
@@ -242,9 +247,9 @@ library(tidyverse)
 
 # Personal reflections from industry
 
-- I began to notice gaps between my expectations/assumptions for my contributions at work and the reality of my experiences on the job... 
+- I often reflect on **gaps** between expectations/assumptions and the reality of my contributions on the job... 
 
-- *Expectation*: UMN Statistics Dept filled my toolbox with advanced methods & fancy models... that's what they'll expect me to do at work.
+>- *Expectation*: UMN Statistics Dept filled my toolbox with advanced methods & fancy models... that's what they'll expect me to do at work.
 
 >- *Mind the gap*: At work, I generally used 10-20% of the fancy things I learned in those courses
 
@@ -294,15 +299,7 @@ library(tidyverse)
 - Role of statisticians at work
 - Public perception of Statistics
 - Student perception of EDA
-- Opportunities for research
-
-# Mind the gap: statisticians at work
-
-- Previously 
-
->As a statistical consultant, the first project with a first-time client is usually a disaster.
-
-(Paraphrase of Sandy Weisberg)
+- Statistics education research
 
 
 # Mind the gap: In the public
@@ -315,6 +312,13 @@ library(tidyverse)
 >- a "statistic" could be regarded as a collective property of some data (e.g., a quantity calculated from a sample)
 
 >- Among the greatest contributions the field of Statistics offers the world is the means to appropriately accommodate, characterize, and even quantify **variability** and **uncertainty** 
+
+
+# Mind the gap: statisticians at work
+
+>As a statistical consultant, the first project with a first-time client is usually a disaster. But the next one gets much better.
+
+(Paraphrase of Sandy Weisberg)
 
 
 # Mind the gap: EDA[^6]
@@ -344,8 +348,6 @@ library(tidyverse)
 >- **B**ecome acquainted with the data
 >- **E**xplore intuition for your research question(s)
 >- **D**iscover features in the data that impact modeling decisions
-
->- ...not a great acronym
 
 
 # EDA Framework (2nd attempt)
@@ -492,11 +494,13 @@ library(tidyverse)
 ### ... and data-ing
 
 
->- I've been wondering if my response to the "EDA gap" was grasping at filling a "data-ing gap"
+>- Was my response to the **EDA** gap an attempt to fill a **data-ing** gap?
 
->- Is "data-ing" necessarily a statistical issue?
+>- Intuition first, formalize with statistical models
 
->- Despite a fantastic diversity of perspectives represented at SRTL-13, I expect we will find new gaps--aspects of "data-ing" that we perhaps haven't considered.
+>- Is "data-ing" necessarily a *statistical* issue?
+
+<!-- >- Despite a fantastic diversity of perspectives represented at SRTL-13, I expect we will find new gaps--aspects of "data-ing" that we perhaps haven't considered. -->
 
 >- Top of mind: some ways we engage & reason with data are not as closely linked to our statistical objectives
 
