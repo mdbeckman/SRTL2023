@@ -18,7 +18,7 @@ output:
 ## Resources
 
 - [SRTL-13 Announcement (PDF)](SRTL-13 Final Announcement.pdf)
-- [Keynote Slides (PDF)](docs/202306-srtl-keynote.pdf#page=2)
+- [Keynote Slides (reduced version; original by request)](docs/Matt Slides (reduced).pdf)
 
 
 
